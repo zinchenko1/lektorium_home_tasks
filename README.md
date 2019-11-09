@@ -1,1 +1,5 @@
-6 PHP(Symfony) Lektorium - CRUD, REST, MIGRATIONS
+# Lesson №6
+-CRUD
+-Rest
+-Migrations
+-Forms
