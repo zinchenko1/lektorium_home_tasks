@@ -1,1 +1,1 @@
-Lektorium home tasks
+6 PHP(Symfony) Lektorium - CRUD, REST, MIGRATIONS
