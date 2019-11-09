@@ -1,5 +1,5 @@
 # Lesson №6
-CRUD
-Rest
-Migrations
+CRUD,
+Rest,
+Migrations,
 Forms
