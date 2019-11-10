@@ -1,4 +1,4 @@
-# Lesson №6
+# Lesson №6 under development
 CRUD,
 Rest,
 Migrations,
